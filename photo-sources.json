@@ -1,0 +1,146 @@
+[
+  {
+    "subject": "Padlock",
+    "url": "https://images.pexels.com/photos/546946/pexels-photo-546946.jpeg",
+    "source": "https://www.pexels.com/photo/door-closed-with-padlock-in-close-up-546946/",
+    "creator": "Maurijn Pach",
+    "license": "https://www.pexels.com/license/",
+    "file": "01.jpg",
+    "ai_result": null,
+    "status": "Candidate; difficulty and AI response untested",
+    "review_note": "Keep: ask which object secures the door. Provisional easy.",
+    "approved_for_question_drafting": true
+  },
+  {
+    "subject": "Whisk",
+    "url": "https://images.pexels.com/photos/6996346/pexels-photo-6996346.jpeg",
+    "source": "https://www.pexels.com/photo/close-up-shot-of-a-whisk-6996346/",
+    "creator": "Pavel Danilyuk",
+    "license": "https://www.pexels.com/license/",
+    "file": "02.jpg",
+    "ai_result": null,
+    "status": "Candidate; difficulty and AI response untested",
+    "review_note": "Keep: ask which utensil is in the foreground. Provisional easy.",
+    "approved_for_question_drafting": true
+  },
+  {
+    "subject": "Zipper",
+    "url": "https://images.pexels.com/photos/17720474/pexels-photo-17720474.jpeg",
+    "source": "https://www.pexels.com/photo/close-up-of-jeans-17720474/",
+    "creator": "Dmitriy Steinke",
+    "license": "https://www.pexels.com/license/",
+    "file": "03.jpg",
+    "ai_result": null,
+    "status": "Candidate; difficulty and AI response untested",
+    "review_note": "Keep: ask which fastener is pictured. Provisional easy.",
+    "approved_for_question_drafting": true
+  },
+  {
+    "subject": "Owl",
+    "url": "https://images.pexels.com/photos/1526404/pexels-photo-1526404.jpeg",
+    "source": "https://www.pexels.com/photo/close-up-photo-of-an-owl-1526404/",
+    "creator": "Jean van der Meulen",
+    "license": "https://www.pexels.com/license/",
+    "file": "04.jpg",
+    "ai_result": null,
+    "status": "Candidate; difficulty and AI response untested",
+    "review_note": "Keep: use owl as the answer, not a species name. Provisional easy.",
+    "approved_for_question_drafting": true
+  },
+  {
+    "subject": "Camouflaged insect",
+    "url": "https://images.pexels.com/photos/34556172/pexels-photo-34556172.jpeg",
+    "source": "https://www.pexels.com/photo/close-up-shot-of-a-camouflaged-insect-on-leaf-34556172/",
+    "creator": "Sai Pixels",
+    "license": "https://www.pexels.com/license/",
+    "file": "05.jpg",
+    "ai_result": null,
+    "status": "Candidate; difficulty and AI response untested",
+    "review_note": "Exclude pending verification: source labels this an insect, but visual inspection suggests a frog. Do not use source label as ground truth.",
+    "approved_for_question_drafting": false
+  },
+  {
+    "subject": "Pencil and notebook",
+    "url": "https://cdn.pixabay.com/photo/2018/01/01/21/00/close-up-3054945_1280.jpg",
+    "source": "https://pixabay.com/close-up-macro-pencil-notebook-3054945/",
+    "creator": "Not available in retrieved page",
+    "license": "https://pixabay.com/service/license-summary/",
+    "file": "06.jpg",
+    "ai_result": null,
+    "status": "Candidate; difficulty and AI response untested",
+    "review_note": "Reserve: multiple prominent objects. Requires a specific question about the writing instrument.",
+    "approved_for_question_drafting": false
+  },
+  {
+    "subject": "Keys",
+    "source": "https://www.pexels.com/photo/close-up-of-keys-333837/",
+    "creator": "George Becker",
+    "license": "https://www.pexels.com/license/",
+    "file": "keys.jpg",
+    "changes": "None",
+    "ai_result": null
+  },
+  {
+    "subject": "Pineapple",
+    "source": "https://www.pexels.com/photo/pineapple-fruit-near-pine-cones-1171174/",
+    "creator": "Brett Sayles",
+    "license": "https://www.pexels.com/license/",
+    "file": "pineapple.jpg",
+    "changes": "None",
+    "ai_result": null
+  },
+  {
+    "subject": "Feather",
+    "source": "https://www.pexels.com/photo/macro-shot-of-vibrant-peacock-feather-close-up-36684028/",
+    "creator": "Komal b",
+    "license": "https://www.pexels.com/license/",
+    "file": "feather.jpg",
+    "changes": "None",
+    "ai_result": null
+  },
+  {
+    "subject": "Pine cones",
+    "source": "https://www.pexels.com/photo/close-up-of-pine-cones-on-mossy-ground-30413660/",
+    "creator": "Marian Florinel Condruz",
+    "license": "https://www.pexels.com/license/",
+    "file": "pinecone.jpg",
+    "changes": "None",
+    "ai_result": null
+  },
+  {
+    "subject": "Mushrooms",
+    "source": "https://www.pexels.com/photo/close-up-of-mushroom-13545633/",
+    "creator": "Aleksandr Gorlov",
+    "license": "https://www.pexels.com/license/",
+    "file": "mushroom.jpg",
+    "changes": "None",
+    "ai_result": null
+  },
+  {
+    "subject": "Brush",
+    "source": "https://www.pexels.com/photo/close-up-photo-of-a-person-holding-a-brown-cleaning-brush-9475694/",
+    "creator": "Greta Hoffman",
+    "license": "https://www.pexels.com/license/",
+    "file": "brush.jpg",
+    "changes": "None",
+    "ai_result": null
+  },
+  {
+    "subject": "Coffee beans",
+    "source": "https://www.pexels.com/photo/close-up-of-coffee-beans-26711792/",
+    "creator": "Jonathan Borba",
+    "license": "https://www.pexels.com/license/",
+    "file": "coffee.jpg",
+    "changes": "None",
+    "ai_result": null
+  },
+  {
+    "subject": "Sunflower",
+    "source": "https://www.pexels.com/photo/close-up-of-a-sunflower-19757421/",
+    "creator": "Tom Fisk",
+    "license": "https://www.pexels.com/license/",
+    "file": "sunflower.jpg",
+    "changes": "None",
+    "ai_result": null
+  }
+]
